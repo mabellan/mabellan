@@ -1,13 +1,13 @@
 # Hello, my name is Miguel Abellán
 ### Full Stack Developer
 
-Graduated in Computer Engineering with experience in the web developer area.
+Graduated in Computer Engineering with experience in the web development area.
 
 I am currently working full time as a fullstack programmer (Angular + .NET Core + Azure).
 
 I consider myself a responsible, dynamic and open to new ideas person.
 
-I am interested in developing my professional career and increasing my knowledge in the IT field.
+I am interested in developing my professional career and increasing my knowledge in the IT area.
 
 ## Skills:
 [![TypeScript](https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
@@ -33,4 +33,4 @@ And more...
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/mabellan1996@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mabellan1996@gmail.com)
+[![Email](https://img.shields.io/badge/mabellan1996@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mabellan1996@gmail.com)
