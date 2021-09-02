@@ -3,7 +3,7 @@
 
 Graduated in Computer Engineering with experience in the web development area.
 
-I am currently working full time as a fullstack programmer (Angular + .NET Core + Azure).
+I am currently working full time as a fullstack developer (Angular + .NET Core + Azure).
 
 I consider myself a responsible, dynamic and open to new ideas person.
 
