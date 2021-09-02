@@ -9,6 +9,10 @@ I consider myself a responsible, dynamic and open to new ideas person.
 
 I am interested in developing my professional career and increasing my knowledge in the IT area.
 
+## Want to see my personal projects?
+
+Just go to my [repositories]!(https://github.com/mabellan?tab=repositories)
+
 ## Skills:
 [![TypeScript](https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
