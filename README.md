@@ -11,7 +11,7 @@ I am interested in developing my professional career and increasing my knowledge
 
 ## Want to see my personal projects?
 
-Just go to my [repositories]!(https://github.com/mabellan?tab=repositories)
+Just go to my [repositories](https://github.com/mabellan?tab=repositories)
 
 ## Skills:
 [![TypeScript](https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
