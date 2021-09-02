@@ -12,8 +12,8 @@ I am interested in developing my professional career and increasing my knowledge
 ## Skills:
 [![TypeScript](https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C#-232F3E?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C_Sharp-232F3E?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-232F3E?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
 [![.NET Core](https://img.shields.io/badge/.NET_Core-4285F4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-4285F4?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
