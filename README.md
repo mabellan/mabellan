@@ -1,7 +1,7 @@
 # Hello, my name is Miguel Abellán
 ### Full Stack Developer
 
-Graduated in Computer Engineering with experience in the web development area.
+I am a computer scientist specialized in software engineering.
 
 I am currently working full time as a fullstack developer (Angular + .NET Core + Azure).
 
