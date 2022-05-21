@@ -1,9 +1,9 @@
 # Hello, my name is Miguel Abellán
-### Full Stack Developer
+### Full Stack Developer | Remix.run | Typescript | React | Node.js
 
 I am a computer scientist specialized in software engineering.
 
-I am currently working full time as a fullstack developer (Angular + .NET Core + Azure).
+I am currently working full time as a fullstack developer - Remix.run.
 
 I consider myself a responsible, dynamic and open to new ideas person.
 
